@@ -2,11 +2,18 @@ Numéro : 1
 Nom : Rhythm Elite
 Année : 2013
 Technologies : Java, Android
+Unités d'enseignement  Conception de Systèmes Ambiants, Travaux d'Etude et de Recherche
+But : Réaliser, seul et en une journée, un mini-jeu de rythme reprenant le jeu Elite Beat Agent sur la plate-forme Android
 
 Numéro : 2
 Nom : Autonomic Cloud
 Année : 2013
-Technologies : Java, Rmi, Corba
+Technologies : Java, middleware de Cloud OpenNebula
+Unités d'enseignement : Applications réparties à grande échelle
+But : Déploiement d'un service de répartition de charge sur des serveurs de calcul déployés sur plusieurs machines virtuelles. Répartition des serveurs en fonction de la charge et rendre le système autonome.
+
+Numéro : 5
+Nom : RMI Corba
 
 Numéro : 3
 Nom : Tartiquizz
