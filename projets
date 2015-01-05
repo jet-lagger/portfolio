@@ -95,14 +95,14 @@ Unités d'enseignement : Sureveillance et Protection des Réseaux
 But : Projet de type réponse à appel d'offre, répondre aux besoins de sécurisation des espaces de stockage d'une société face à de nouvelles contraintes légales.
 
 Numéro : 11
-Nom : Attaques sur une machine virtuelle
+Nom : Attaques sur application web
 Année : 2013
 Technologies : Damn Vulnerable Web App (DVWA), scanners Nikto et Nessus
 Unités d'enseigement : Sécurité
 But : Réaliser différentes attaques sur une application web vulnérable pour des tests en sécurité. Injection SQL, reflected Cross-Site Scripting (XSS), file upload, exécution de commande, Cross-Site Request Forgery (CSRF)
 
 Numéro : 13
-Nom : Sécurisation 2
+Nom : Attaques sur une machine virtuelle
 Année : 2013
 Technologies : Kali Linux, Metasploitable 2 (MSF2), scanner Open VAS
 Unités d'enseignement : Sécurité
