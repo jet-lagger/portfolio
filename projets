@@ -10,18 +10,25 @@ Nom : Autonomic Cloud
 Année : 2013
 Technologies : Java, middleware de Cloud OpenNebula
 Unités d'enseignement : Applications réparties à grande échelle
-But : Déploiement d'un service de répartition de charge sur des serveurs de calcul déployés sur plusieurs machines virtuelles. Répartition des serveurs en fonction de la charge et rendre le système autonome.
+But : Déploiement d'un service de répartition de charge sur des serveurs de calcul déployés sur plusieurs machines virtuelles. Répartition des serveurs automatique en fonction de la charge.
 
 Numéro : 5
-Nom : RMI Corba
+Nom : Outils de répartition
+Année : 2012
+Technologies : Java, RMI, Corba, JacORB implémentation Java libre du standard OMG Corba
+Unités d'enseignement : Applications Réparties à Grande Echelle
+But : Implémenter des clients Corba et un client/serveur RMI pour permettre l'accès à une base de données.
 
 Numéro : 3
 Nom : Tartiquizz
 Année : 2012
-Technologies : Java, Git, GitHub, Apache Maven, XML
+Technologies : Java, Git, GitHub, automatisation des dépendances et des builds Apache Maven, POM, XML, JUnit, JDom, plugins Checkstyle et PMD (analyse de code), Google DOcs
+Unités d'enseignement : Développement Collaboratif et Logiciels Libres
+But : Découvrir des outils de travail collaboratifs notamment (gestion de version, de dépendance et de bureautique en ligne) en implémentant une API de parsage de QCM Moodle au format XML. Travailler réellement en équipe, des techniques de travail essentielles dans les développements, découvrir Git
 
 Numéro : 4
 Nom : Développement dirigé par les tests
 Année : 2012
-Technologies : Java, Junit
+Technologies : Java, JUnit
+But : Appliquer à du TDD à la gestion d'un panier en ligne pour réaliser ce qu'apporte cette technique aux développements dans la pratique. Inventer les tests par petits pas (l'apprentissage le plus difficile), refactoring de l'architecture avant de passer à l'écriture du test suivant. Pour m'aider dans ce projet j'ai assisté à l'Agile Tour de Toulouse où j'ai pu apprendre à découper les tests le plus finement possible dans un atelier.
 
